@@ -30,6 +30,7 @@ A deliberate study of military topics
  - Twilight of the Gods: War in the Western Pacific, 1944-1945
  
  ## Land
+ - Killer Angels
  - Ghost Soldiers: The Forgotten Epic Story of World War II's Most Dramatic Mission
  - An Army at Dawn: The War in North Africa, 1942-1943, Volume One of the Liberation Trilogy
  - The Day of Battle: The War in Sicily and Italy, 1943-1944 (The Liberation Trilogy Book 2)
