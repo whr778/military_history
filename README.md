@@ -12,7 +12,7 @@ A deliberate study of military topics
  - Hunting the Jackal: A Special Forces and CIA Soldier's Fifty Years on the Frontlines of the War Against Terrorism
  - Victory and Deceit: Dirty Tricks at War
  - Inside Delta Force: The Story of America's Elite Counterterrorist Unit
- - The operator
+ - The Operator
  - The right kind of crazy
  - Delta Force: The Army's Elite Counterterrorist Unit
  - Alone at dawn
@@ -53,7 +53,6 @@ A deliberate study of military topics
  - There's a War to Be Won: The United States Army in World War II
  - Targeted: Beirut: The 1983 Marine Barracks Bombing and the Untold Origin Story of the War on Terror
  - Brute
- - One mission
  - Structure of scientific revolutions
  
   
@@ -62,6 +61,7 @@ A deliberate study of military topics
  - Bibi
  - My American Journey
  - It Doesn't Take a Hero : The Autobiography of General H. Norman Schwarzkopf
+ - One damn thing after another
  
  
  ## Leadership
@@ -69,6 +69,12 @@ A deliberate study of military topics
  - The 7 Habits of Highly Effective People
  - Principle Centered Leadership
  - Team of teams
- - Dichotomy of leadership
+ - The Dichotomy of leadership
+ - On Character
+ - One Mission
+ - Extreme Ownership
+ - Atomic Habits
  - Once an Eagle
  - Meditations
+ - Invent and Wander
+ - Kingdom man
