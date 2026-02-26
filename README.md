@@ -23,7 +23,7 @@ A deliberate study of military topics
  - Small Unit Tactics Handbook
  - Ranger Handbook
 
-## Naval
+## Naval/Amphibious
  - Sir Francis Drake
  - Pacific Crucible: War at Sea in the Pacific, 1941-1942
  - The Conquering Tide: War in the Pacific Islands, 1942-1944
