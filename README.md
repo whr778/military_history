@@ -58,6 +58,7 @@ A deliberate study of military topics
  
   
  ## Politics
+ - The Rough Riders
  - Bibi
  - My American Journey
  - It Doesn't Take a Hero : The Autobiography of General H. Norman Schwarzkopf
