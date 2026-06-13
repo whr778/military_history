@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Field library mark</title>
+  <desc id="desc">A compact illustration of stacked books, a map, and a compass.</desc>
+  <rect width="240" height="240" rx="24" fill="#294b3a"/>
+  <path fill="#dce8ed" d="M38 53h116c12 0 22 10 22 22v102H60c-12 0-22-10-22-22V53z"/>
+  <path fill="#fffdf7" d="M58 72h98v18H58zM58 102h82v12H58zM58 126h96v12H58z"/>
+  <path fill="#b06f25" d="M52 177h122v15H52zM64 193h130v15H64z"/>
+  <circle cx="169" cy="86" r="38" fill="#fffdf7" stroke="#183226" stroke-width="8"/>
+  <path fill="#9d302f" d="m169 57 9 29-9 29-9-29z"/>
+  <path fill="#183226" d="m140 86 29-9 29 9-29 9z"/>
+  <path fill="none" stroke="#183226" stroke-linecap="round" stroke-width="7" d="M50 55v99c0 6 5 11 11 11h121"/>
+</svg>
