@@ -20,8 +20,10 @@ A deliberate study of military topics
  - Call sign Chaos
  - All secure
  - Fearless: The Undaunted Courage and Ultimate Sacrifice of Navy SEAL Team SIX Operator Adam Brown
+ - SOG: The Secret Wars of America's Commandos in Vietnam, John L. Plaster
  - Small Unit Tactics Handbook
  - Ranger Handbook
+ - Five Years to Freedom: The True Story of a Vietnam POW
 
 ## Naval/Amphibious
  - Sir Francis Drake
@@ -54,8 +56,8 @@ A deliberate study of military topics
  - Targeted: Beirut: The 1983 Marine Barracks Bombing and the Untold Origin Story of the War on Terror
  - Brute
  - Structure of scientific revolutions
+ - A Book of Five Rings: The Strategy of Musashi
  
-  
  ## Politics
  - The Rough Riders
  - Bibi
@@ -63,14 +65,13 @@ A deliberate study of military topics
  - It Doesn't Take a Hero : The Autobiography of General H. Norman Schwarzkopf
  - One damn thing after another
  
- 
  ## Leadership
  - One minute manager
  - The 7 Habits of Highly Effective People
  - Principle Centered Leadership
  - Team of teams
  - The Dichotomy of leadership
- - On Character
+ - On Character: Choices That Define a Life
  - One Mission
  - Extreme Ownership
  - Atomic Habits
@@ -78,3 +79,6 @@ A deliberate study of military topics
  - Meditations
  - Invent and Wander
  - Kingdom man
+ - The Ranger Way: Living the Code On and Off the Battlefield
+ - The Wisdom of the Bullfrog: Leadership Made Simple (But Not Easy)
+ - Drownproof: Eight Life Lessons to Keep Your Head Above Water
