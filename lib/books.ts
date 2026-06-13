@@ -267,6 +267,12 @@ const titleNotes: Record<string, BookNote> = {
       "Blehm presents Brown as a story of redemption and grit, emphasizing family, addiction recovery, faith, team loyalty, and the personal cost of special operations service.",
   },
   "SOG: The Secret Wars of America's Commandos in Vietnam, John L. Plaster": {
+    extraLinks: [
+      {
+        label: "SOG Site",
+        url: "https://sogsite.com/",
+      },
+    ],
     summary:
       "A history of MACV-SOG reconnaissance teams and covert cross-border operations during the Vietnam War.",
     detail:
