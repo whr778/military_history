@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: BookPageProps) {
   };
 }
 
-export default async function BookPage({ params }: BookPageProps) {
+export default async function BookSummaryPage({ params }: BookPageProps) {
   const { slug } = await params;
   const book = getBookBySlug(slug);
 
@@ -71,6 +71,11 @@ export default async function BookPage({ params }: BookPageProps) {
           <a href={links.audible} rel="noreferrer" target="_blank">
             Find on Audible
           </a>
+          {book.extraLinks?.map((link) => (
+            <a href={link.url} key={link.url} rel="noreferrer" target="_blank">
+              {link.label}
+            </a>
+          ))}
         </div>
       </article>
     </main>

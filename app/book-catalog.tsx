@@ -20,7 +20,14 @@ export function BookCatalog({ books, categories }: BookCatalogProps) {
     }
 
     return books.filter((book) =>
-      [book.title, book.author, book.category, book.summary, book.detail]
+      [
+        book.title,
+        book.author,
+        book.category,
+        book.summary,
+        book.detail,
+        ...(book.extraLinks?.map((link) => link.label) ?? []),
+      ]
         .join(" ")
         .toLowerCase()
         .includes(normalizedQuery),
@@ -97,6 +104,11 @@ export function BookCatalog({ books, categories }: BookCatalogProps) {
                       <a href={links.audible} rel="noreferrer" target="_blank">
                         Audible
                       </a>
+                      {book.extraLinks?.map((link) => (
+                        <a href={link.url} key={link.url} rel="noreferrer" target="_blank">
+                          {link.label}
+                        </a>
+                      ))}
                     </div>
                   </article>
                 );

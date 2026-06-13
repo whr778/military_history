@@ -17,7 +17,6 @@ A deliberate study of military topics
 - Delta Force: The Army's Elite Counterterrorist Unit, Charlie A. Beckwith and Donald Knox
 - Alone at Dawn
 - Sea Stories
-- Call Sign Chaos
 - All Secure
 - Fearless: The Undaunted Courage and Ultimate Sacrifice of Navy SEAL Team SIX Operator Adam Brown
 - SOG: The Secret Wars of America's Commandos in Vietnam, John L. Plaster
@@ -73,6 +72,7 @@ ta
 - The 7 Habits of Highly Effective People
 - Principle-Centered Leadership
 - Team of Teams
+- Call Sign Chaos: Learning to Lead, Jim Mattis and Bing West
 - The Dichotomy of Leadership
 - On Character: Choices That Define a Life
 - One Mission
