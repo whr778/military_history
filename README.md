@@ -11,10 +11,10 @@ A deliberate study of military topics
 - Rogue Warrior by Richard Marcinko
 - Hunting the Jackal: A Special Forces and CIA Soldier's Fifty Years on the Frontlines of the War Against Terrorism
 - Victory and Deceit: Dirty Tricks at War
-- Inside Delta Force: The Story of America's Elite Counterterrorist Unit
+- Inside Delta Force: The Story of America's Elite Counterterrorist Unit, Eric L. Haney
 - The Operator
 - The Right Kind of Crazy
-- Delta Force: The Army's Elite Counterterrorist Unit
+- Delta Force: The Army's Elite Counterterrorist Unit, Charlie A. Beckwith and Donald Knox
 - Alone at Dawn
 - Sea Stories
 - Call Sign Chaos
@@ -46,18 +46,21 @@ A deliberate study of military topics
 - Deep Black: Space Espionage and National Security
 - Spy in Moscow Station
 
+## Air
+- Boyd: The Fighter Pilot Who Changed the Art of War, Robert Coram
+- The Mind of War: John Boyd and American Security, Grant Hammond
+- To Fly and Fight, Bud Anderson
+
 ## Theory
 - Sun Tzu
 - Book of Five Rings
-- Boyd: The Fighter Pilot Who Changed the Art of War
-- The Mind of War: John Boyd and American Security
-- Warfighting: The US Marine Corps Book of Strategy
+- Warfighting: The US Marine Corps Book of Strategy, A.M. Gray
 - There's a War to Be Won: The United States Army in World War II
 - Targeted: Beirut: The 1983 Marine Barracks Bombing and the Untold Origin Story of the War on Terror
 - Brute
 - The Structure of Scientific Revolutions
 - A Book of Five Rings: The Strategy of Musashi
-
+ta
 ## Politics
 - The Rough Riders
 - Bibi
@@ -82,4 +85,4 @@ A deliberate study of military topics
 - The Ranger Way: Living the Code On and Off the Battlefield
 - The Wisdom of the Bullfrog: Leadership Made Simple (But Not Easy)
 - Make Your Bed: Little Things That Can Change Your Life...And Maybe the World
-- Drownproof: Eight Life Lessons to Keep Your Head Above Water
+- Drownproof: Eight Life Lessons to Keep Your Head Above Water, Andy Stumpf

@@ -49,6 +49,7 @@ export default async function BookPage({ params }: BookPageProps) {
       <article className="summary-page">
         <p className="eyebrow">{book.category}</p>
         <h1>{book.title}</h1>
+        {book.author ? <p className="book-author">By {book.author}</p> : null}
         <p className="intro">{book.summary}</p>
 
         <div className="summary-layout">

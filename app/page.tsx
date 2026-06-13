@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { books, categories, commerceLinks } from "@/lib/books";
+import { BookCatalog } from "@/app/book-catalog";
+import { books, categories } from "@/lib/books";
 
 export default function Home() {
   return (
@@ -44,43 +44,7 @@ export default function Home() {
         </div>
       </section>
 
-      {categories.map((category) => {
-        const categoryBooks = books.filter((book) => book.category === category.name);
-
-        return (
-          <section className="category-section" id={category.slug} key={category.slug}>
-            <div className="section-heading">
-              <p>{categoryBooks.length} titles</p>
-              <h2>{category.name}</h2>
-            </div>
-
-            <div className="book-grid">
-              {categoryBooks.map((book) => {
-                const links = commerceLinks(book);
-
-                return (
-                  <article className="book-card" key={book.slug}>
-                    <div>
-                      <p className="book-category">{book.category}</p>
-                      <h3>{book.title}</h3>
-                      <p>{book.summary}</p>
-                    </div>
-                    <div className="actions" aria-label={`Links for ${book.title}`}>
-                      <Link href={`/books/${book.slug}`}>Summary</Link>
-                      <a href={links.amazon} rel="noreferrer" target="_blank">
-                        Amazon
-                      </a>
-                      <a href={links.audible} rel="noreferrer" target="_blank">
-                        Audible
-                      </a>
-                    </div>
-                  </article>
-                );
-              })}
-            </div>
-          </section>
-        );
-      })}
+      <BookCatalog books={books} categories={categories} />
     </main>
   );
 }
